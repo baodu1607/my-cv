@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/baodu1607/my-cv.git/static/css/main.db6cb994.css",
+    "main.js": "/baodu1607/my-cv.git/static/js/main.2f7d7211.js",
+    "index.html": "/baodu1607/my-cv.git/index.html",
+    "main.db6cb994.css.map": "/baodu1607/my-cv.git/static/css/main.db6cb994.css.map",
+    "main.2f7d7211.js.map": "/baodu1607/my-cv.git/static/js/main.2f7d7211.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db6cb994.css",
+    "static/js/main.2f7d7211.js"
+  ]
+}
